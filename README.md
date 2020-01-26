@@ -23,7 +23,7 @@ In order to represent the 20Newsgroup documents, I use a pre-trained word2vec mo
 
 The newsgroup dataset was retrieved via its [helper function](http://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_20newsgroups.html) from the Python library scikit-learn . The pre-trained word2vec model is available [here](https://code.google.com/archive/p/word2vec/). In order to process the model, the gensim library was used.
 
-This code was developed as part of the data pre-processing section for my paper on interactive dimensionality reduction [2] and I thought it might be useful for other people dealing with text representation tasks. 
+This code was developed as part of the data pre-processing section for our paper on interactive dimensionality reduction [2] and I thought it might be useful for other people dealing with text representation tasks. 
 
 > [1]  Mikolov, Tomas, Ilya Sutskever, Kai Chen, Greg S. Corrado, and Jeff Dean. ["Distributed representations of words and  phrases and their compositionality."](https://scholar.google.gr/citations?user=oBu8kMMAAAAJ&hl=en&oi=sra#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DoBu8kMMAAAAJ%26citation_for_view%3DoBu8kMMAAAAJ%3ACB2v5VPnA5kC%26tzom%3D0) In Advances in neural information processing systems, pp. 3111-3119. 2013.
 
