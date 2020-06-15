@@ -1,5 +1,5 @@
 ### Average words to represent documents with word2vec
-Quick Python script I wrote in order to process the 20 Newsgroup dataset with word embeddings. Suggested to run on a Jupyter Notebook. Most word2vec [1] pre-trained models allow to get numerical representations of individual words but not of entire documents. While most sophisticated methods like doc2vec exist, with this script we simply average each word of a document so that the generated document vector is actually a centroid of all words in feature space.
+Quick Python script I wrote in order to process the 20 Newsgroup dataset with word embeddings. Suggested to run on a Jupyter Notebook. Most word2vec [1] pre-trained models allow to get numerical representations of _individual words_ but not of _entire documents_. While most sophisticated methods like doc2vec exist, with this script we simply average each word of a document so that the generated document vector is actually a centroid of all words in feature space.
 
 ### What can I do with this code?
 ![title](https://github.com/sdimi/average-word2vec/blob/master/workflow.png)
