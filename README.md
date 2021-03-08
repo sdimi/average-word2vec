@@ -23,7 +23,7 @@ In order to represent the 20Newsgroup documents, I use a pre-trained word2vec mo
 
 The newsgroup dataset was retrieved via its [helper function](http://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_20newsgroups.html) from the Python library scikit-learn . The pre-trained word2vec model is available [here](https://code.google.com/archive/p/word2vec/). In order to process the model, the gensim library was used.
 
-> :warning: **Progress in NLP (2021 Update):** Word2vec was a very popular method a couple of years ago but the area is moving very fast. You might be better off using more recent frameworks such as [BERT](https://github.com/google-research/bert), [Transformers](https://github.com/huggingface/transformers), and [Spacy](https://spacy.io/). Word2vec is still a good choice though for _context-indepedent_ language modeling ([see differences](https://qph.fs.quoracdn.net/main-qimg-c92484e9249d0bcf7c2872c3514523d2)).
+> :warning: **Progress in NLP (2021 Update):** Word2vec was a very popular method a couple of years ago but the area is moving very fast. You might be better off using more recent frameworks such as [BERT](https://github.com/google-research/bert), [Transformers](https://github.com/huggingface/transformers), and [Spacy](https://spacy.io/). Word2vec is still a good choice though for _context-independent_ language modeling ([see differences](https://qph.fs.quoracdn.net/main-qimg-c92484e9249d0bcf7c2872c3514523d2)).
 
 ### How to cite our papers
 
