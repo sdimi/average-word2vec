@@ -30,4 +30,5 @@ The newsgroup dataset was retrieved via its [helper function](http://scikit-lear
 This code was developed as part of the data pre-processing section for our papers on interactive dimensionality reduction. Please consider citing our papers if you use code or ideas from this project:
 
 > [1] Spathis, Dimitris, Nikolaos Passalis, and Anastasios Tefas. ["Interactive dimensionality reduction using similarity projections."](https://www.sciencedirect.com/science/article/pii/S0950705118305677) Knowledge-Based Systems 165 (2019): 77-91.
-> [2] Spathis, Dimitris, Nikolaos Passalis, and Anastasios Tefas. ["Fast, Visual and Interactive Semi-supervised Dimensionality Reduction."](hthttp://doi.org/cz6d) ECCV Efficient Feature Representation Learning workshop (2018), Munich, Germany.
+
+> [2] Spathis, Dimitris, Nikolaos Passalis, and Anastasios Tefas. ["Fast, Visual and Interactive Semi-supervised Dimensionality Reduction."](http://doi.org/cz6d) ECCV Efficient Feature Representation Learning workshop (2018), Munich, Germany.
